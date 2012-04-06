@@ -1,5 +1,5 @@
 s = Gem::Specification.new do |s|
-  s.name         = 'tagme'
+  s.name         = 'tagme4r'
   s.version      = '0.0.1'
   s.date         = '2012-04-05'
   s.summary      = 'API for TAGME'
